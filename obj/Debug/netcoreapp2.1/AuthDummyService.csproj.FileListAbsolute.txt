@@ -1,0 +1,14 @@
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\bin\Debug\netcoreapp2.1\AuthDummyService.deps.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\bin\Debug\netcoreapp2.1\AuthDummyService.runtimeconfig.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\bin\Debug\netcoreapp2.1\AuthDummyService.runtimeconfig.dev.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\bin\Debug\netcoreapp2.1\AuthDummyService.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\bin\Debug\netcoreapp2.1\AuthDummyService.pdb
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.csprojAssemblyReference.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.csproj.CoreCompileInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.RazorAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.RazorAssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.AssemblyInfoInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.AssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.RazorTargetAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\AuthDummyService\obj\Debug\netcoreapp2.1\AuthDummyService.pdb
